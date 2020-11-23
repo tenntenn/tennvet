@@ -12,10 +12,10 @@ $ go get -u github.com/tenntenn/tennvet
 $ go vet -vettool=`go env GOPATH`/bin/tennvet ./... 
 ```
 
-If you set PATH to `go env GOPATH`/bin, you can use which.
+If you set PATH to `go env GOPATH`/bin, you can use `which` command.
 
 ```sh
-$ go vet -vettool=`go env GOPATH`/bin/tennvet ./... 
+$ go vet -vettool=`which tennvet` ./... 
 ```
 
 ## Analyzers
