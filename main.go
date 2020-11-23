@@ -4,6 +4,7 @@ import (
 	"github.com/gcpug/zagane/zagane"
 	"github.com/gostaticanalysis/ctxfield"
 	"github.com/gostaticanalysis/dupimport"
+	"github.com/gostaticanalysis/exclude"
 	"github.com/gostaticanalysis/forcetypeassert"
 	"github.com/gostaticanalysis/importgroup"
 	"github.com/gostaticanalysis/nilerr"
@@ -18,11 +19,11 @@ import (
 )
 
 func main() {
-	unitchecker.Main(append(
+	unitchecker.Main(exclude.All(append(
 		zagane.Analyzers(), // for Cloud Spanner
 		ctxfield.Analyzer,
 		dupimport.Analyzer,
-		forcetypeassert.Analyzer,
+		exclude.By(forcetypeassert.Analyzer, exclude.TestFile),
 		importgroup.Analyzer,
 		nilerr.Analyzer,
 		nofmt.Analyzer,
@@ -32,5 +33,5 @@ func main() {
 		unitconst.Analyzer,
 		unused.Analyzer,
 		wraperrfmt.Analyzer,
-	)...)
+	), exclude.GeneratedFile, exclude.FileWithPattern)...)
 }
