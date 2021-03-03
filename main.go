@@ -7,6 +7,7 @@ import (
 	"github.com/gostaticanalysis/exclude"
 	"github.com/gostaticanalysis/forcetypeassert"
 	"github.com/gostaticanalysis/importgroup"
+	"github.com/gostaticanalysis/loopdefer"
 	"github.com/gostaticanalysis/nilerr"
 	"github.com/gostaticanalysis/nofmt"
 	"github.com/gostaticanalysis/notest"
@@ -25,6 +26,7 @@ func main() {
 		dupimport.Analyzer,
 		exclude.By(forcetypeassert.Analyzer, exclude.TestFile),
 		importgroup.Analyzer,
+		loopdefer.Analyzer,
 		nilerr.Analyzer,
 		nofmt.Analyzer,
 		notest.Analyzer,
