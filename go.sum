@@ -37,8 +37,10 @@ github.com/gostaticanalysis/notest v0.0.0-20190308173254-8cf418819436 h1:0ve41hn
 github.com/gostaticanalysis/notest v0.0.0-20190308173254-8cf418819436/go.mod h1:iSu+i6TJDuAbrOgSmSYkPLB/NLalMYiJ5NFqiGguwCk=
 github.com/gostaticanalysis/sqlrows v0.0.0-20200307153552-ea5697937269 h1:3Oz+PvsnTtbK3Q0Rk5mZtEwrFF6UzwQj/DR+l917E90=
 github.com/gostaticanalysis/sqlrows v0.0.0-20200307153552-ea5697937269/go.mod h1:e1pmG/kyEnqo7xy7ZgrKgfMnqR07yFpDsvB/fMWnNq8=
-github.com/gostaticanalysis/testhelper v0.1.0 h1:UM6MwxD2DX+rl9zJM8cfw7TD8LrcX+PK+A9mbzIfzss=
-github.com/gostaticanalysis/testhelper v0.1.0/go.mod h1:R7l64GUNSfRHkEKraTNWiuiXQry8/TW7Ac/i3r0q8ew=
+github.com/gostaticanalysis/testhelper v0.1.1 h1:aB8nl1QuH3QrJWbkCd6pO+Tl3mn5B+4AzFUCTVYbZzk=
+github.com/gostaticanalysis/testhelper v0.1.1/go.mod h1:R7l64GUNSfRHkEKraTNWiuiXQry8/TW7Ac/i3r0q8ew=
+github.com/gostaticanalysis/testhelper v0.1.2 h1:w0guK+kItbIOj1GPveMrec9tQFVWKgVOIgjJH9YQ0Pw=
+github.com/gostaticanalysis/testhelper v0.1.2/go.mod h1:R7l64GUNSfRHkEKraTNWiuiXQry8/TW7Ac/i3r0q8ew=
 github.com/gostaticanalysis/testutil v0.0.0-20190308165151-352061e1ba8c/go.mod h1:6dnfVtdzHaKguYhBO/9DQrWcGfyZocsw7IS/bLgaC/M=
 github.com/gostaticanalysis/testutil v0.3.0/go.mod h1:trej6yCbjSFMyfa/YbAUKu4x6PvW8JSuZlMHnTLpqJc=
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
