@@ -14,9 +14,10 @@ require (
 	github.com/gostaticanalysis/nofmt v0.0.0-20190308162339-35b38e0c7b48
 	github.com/gostaticanalysis/notest v0.0.0-20190308173254-8cf418819436
 	github.com/gostaticanalysis/sqlrows v0.0.0-20200307153552-ea5697937269
+	github.com/gostaticanalysis/testhelper v0.1.2
 	github.com/gostaticanalysis/typeswitch v0.0.0-20200129070600-0c79224605d6
 	github.com/gostaticanalysis/unitconst v0.1.1
 	github.com/gostaticanalysis/unused v0.0.5
 	github.com/gostaticanalysis/wraperrfmt v0.0.0-20190308090456-74aac36802ea
-	golang.org/x/tools v0.1.0
+	golang.org/x/tools v0.1.1-0.20210302220138-2ac05c832e1a
 )

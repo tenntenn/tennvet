@@ -12,6 +12,7 @@ import (
 	"github.com/gostaticanalysis/nofmt"
 	"github.com/gostaticanalysis/notest"
 	"github.com/gostaticanalysis/sqlrows/passes/sqlrows"
+	"github.com/gostaticanalysis/testhelper"
 	"github.com/gostaticanalysis/typeswitch"
 	"github.com/gostaticanalysis/unitconst"
 	"github.com/gostaticanalysis/unused"
@@ -31,6 +32,7 @@ func main() {
 		nofmt.Analyzer,
 		notest.Analyzer,
 		sqlrows.Analyzer,
+		testhelper.Analyzer,
 		typeswitch.Analyzer,
 		unitconst.Analyzer,
 		unused.Analyzer,
