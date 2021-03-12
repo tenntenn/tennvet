@@ -31,6 +31,7 @@ $ go vet -vettool=`which tennvet` ./...
 * [notest](https://github.com/gostaticanalysis/notest)
 * [sqlrows](https://github.com/gostaticanalysis/sqlrows)
 * [testhelper](https://github.com/gostaticanalysis/testhelper)
+* [typednil](https://github.com/gostaticanalysis/typednil)
 * [typeswitch](https://github.com/gostaticanalysis/typeswitch)
 * [unitconst](https://github.com/gostaticanalysis/unitconst)
 * [unused](https://github.com/gostaticanalysis/unused)

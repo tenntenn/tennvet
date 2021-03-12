@@ -46,6 +46,8 @@ github.com/gostaticanalysis/testutil v0.3.0/go.mod h1:trej6yCbjSFMyfa/YbAUKu4x6P
 github.com/gostaticanalysis/testutil v0.3.1-0.20210208050101-bfb5c8eec0e4/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
 github.com/gostaticanalysis/testutil v0.3.1 h1:n/8lK4dC+fMcTs7YTBKJfWxEPQctfuF7DPQfusk/fO4=
 github.com/gostaticanalysis/testutil v0.3.1/go.mod h1:D+FIZ+7OahH3ePw/izIEeH5I06eKs1IKI4Xr64/Am3M=
+github.com/gostaticanalysis/typednil v0.1.0 h1:RsJXN8yGoW6rgeyTv2XKaYV5Yq3QFeXVDLHLtYulfWM=
+github.com/gostaticanalysis/typednil v0.1.0/go.mod h1:Bf4hd6DPz1pxuDli4Bn1JwQOho0/eb6wmZY7H3WsoUY=
 github.com/gostaticanalysis/typeswitch v0.0.0-20200129070600-0c79224605d6 h1:visJU4Kv4Z7feLZnQ9uV9+A2E0EtrYD58QriMP1nYjE=
 github.com/gostaticanalysis/typeswitch v0.0.0-20200129070600-0c79224605d6/go.mod h1:j0m96roq+ru7H2EuJBie/V8kWCuIONwrDx6ysJqzCAs=
 github.com/gostaticanalysis/unitconst v0.1.1 h1:OnnnmPSk7/Wt6aQb/JUCKY0uqBoiNWT7vCWRUfEH3ns=

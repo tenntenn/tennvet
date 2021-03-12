@@ -15,6 +15,7 @@ require (
 	github.com/gostaticanalysis/notest v0.0.0-20190308173254-8cf418819436
 	github.com/gostaticanalysis/sqlrows v0.0.0-20200307153552-ea5697937269
 	github.com/gostaticanalysis/testhelper v0.1.2
+	github.com/gostaticanalysis/typednil v0.1.0 // indirect
 	github.com/gostaticanalysis/typeswitch v0.0.0-20200129070600-0c79224605d6
 	github.com/gostaticanalysis/unitconst v0.1.1
 	github.com/gostaticanalysis/unused v0.0.5
