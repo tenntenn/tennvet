@@ -25,6 +25,7 @@ $ go vet -vettool=`which tennvet` ./...
 * [dupimport](https://github.com/gostaticanalysis/dupimport)
 * [forcetypeassert](https://github.com/gostaticanalysis/forcetypeassert)
 * [importgroup](https://github.com/gostaticanalysis/importgroup)
+* [innertypealias](https://github.com/gostaticanalysis/innertypealias)
 * [loopdefer](https://github.com/gostaticanalysis/loopdefer)
 * [nilerr](https://github.com/gostaticanalysis/nilerr)
 * [nofmt](https://github.com/gostaticanalysis/nofmt)
@@ -36,3 +37,4 @@ $ go vet -vettool=`which tennvet` ./...
 * [unitconst](https://github.com/gostaticanalysis/unitconst)
 * [unused](https://github.com/gostaticanalysis/unused)
 * [wraperrfmt](https://github.com/gostaticanalysis/wraperrfmt)
+* [zapvet](https://github.com/gostaticanalysis/zapvet)
