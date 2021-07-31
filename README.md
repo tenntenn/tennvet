@@ -3,7 +3,7 @@
 ## Install
 
 ```sh
-$ go get -u github.com/tenntenn/tennvet
+$ go install github.com/tenntenn/tennvet@latest
 ```
 
 ## How to use
@@ -23,6 +23,7 @@ $ go vet -vettool=`which tennvet` ./...
 * [zagane](https://github.com/gcpug/zagane/zagane)
 * [ctxfield](https://github.com/gostaticanalysis/ctxfield)
 * [dupimport](https://github.com/gostaticanalysis/dupimport)
+* [elseless](https://github.com/gostaticanalysis/elseless)
 * [forcetypeassert](https://github.com/gostaticanalysis/forcetypeassert)
 * [importgroup](https://github.com/gostaticanalysis/importgroup)
 * [innertypealias](https://github.com/gostaticanalysis/innertypealias)
