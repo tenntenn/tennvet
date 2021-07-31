@@ -6,6 +6,7 @@ require (
 	github.com/gcpug/zagane v0.5.2
 	github.com/gostaticanalysis/ctxfield v0.2.2
 	github.com/gostaticanalysis/dupimport v0.0.0-20190626051117-37d4ab484168
+	github.com/gostaticanalysis/elseless v0.1.0
 	github.com/gostaticanalysis/exclude v0.1.0
 	github.com/gostaticanalysis/forcetypeassert v0.0.0-20200621232751-01d4955beaa5
 	github.com/gostaticanalysis/importgroup v0.0.0-20200207005533-c968b39b7641
@@ -22,5 +23,5 @@ require (
 	github.com/gostaticanalysis/unused v0.0.5
 	github.com/gostaticanalysis/wraperrfmt v0.0.0-20190308090456-74aac36802ea
 	github.com/gostaticanalysis/zapvet v0.3.0
-	golang.org/x/tools v0.1.4
+	golang.org/x/tools v0.1.5
 )

@@ -4,6 +4,7 @@ import (
 	"github.com/gcpug/zagane/zagane"
 	"github.com/gostaticanalysis/ctxfield"
 	"github.com/gostaticanalysis/dupimport"
+	"github.com/gostaticanalysis/elseless"
 	"github.com/gostaticanalysis/exclude"
 	"github.com/gostaticanalysis/forcetypeassert"
 	"github.com/gostaticanalysis/importgroup"
@@ -28,6 +29,7 @@ func main() {
 		zagane.Analyzers(), // for Cloud Spanner
 		ctxfield.Analyzer,
 		dupimport.Analyzer,
+		elseless.Analyzer,
 		exclude.By(forcetypeassert.Analyzer, exclude.TestFile),
 		importgroup.Analyzer,
 		innertypealias.Analyzer,
