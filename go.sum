@@ -20,6 +20,8 @@ github.com/gostaticanalysis/ctxfield v0.2.2 h1:Tn+qT9pDHAOqMrfXTS5nherKzyuw5IoXL
 github.com/gostaticanalysis/ctxfield v0.2.2/go.mod h1:NVQHqxsl14/ZpDMhBj+VxqcaIa592zM/rys9Z8FC4CY=
 github.com/gostaticanalysis/dupimport v0.0.0-20190626051117-37d4ab484168 h1:cdsyU5iNKqfi9S49vx5iWdUN7M+BfYxkdKP/7PSC1JQ=
 github.com/gostaticanalysis/dupimport v0.0.0-20190626051117-37d4ab484168/go.mod h1:Q0Mbw2DZAbelG4gIScozrAqkRCb32kBsmx4Hu4DzFWA=
+github.com/gostaticanalysis/elseless v0.1.0 h1:bMiJ4ZGMMkp1uUUqL1eyEE4FlCzdpG4GYz4af7BY1/U=
+github.com/gostaticanalysis/elseless v0.1.0/go.mod h1:4b/D6CRKGVBD5zhYd9c1GvSOHFBSH64Qf2FZwzfcjWQ=
 github.com/gostaticanalysis/exclude v0.1.0 h1:2DqJ1Cu14KC7IEWFhb9IxrOaifCjSGrTC1lXl7EVLI4=
 github.com/gostaticanalysis/exclude v0.1.0/go.mod h1:rZIgjm5AN5h0BoyjOPvui8IRGWlCiLY9zTzF2MUZSKY=
 github.com/gostaticanalysis/forcetypeassert v0.0.0-20200621232751-01d4955beaa5 h1:rx8127mFPqXXsfPSo8BwnIU97MKFZc89WHAHt8PwDVY=
@@ -133,8 +135,9 @@ golang.org/x/tools v0.0.0-20201121010211-780cb80bd7fb/go.mod h1:emZCQorbCU4vsT4f
 golang.org/x/tools v0.1.0/go.mod h1:xkSsbof2nBLbhDlRMhhhyNLN/zl3eTqcnHD5viDpcZ0=
 golang.org/x/tools v0.1.1-0.20210205202024-ef80cdb6ec6d/go.mod h1:9bzcO0MWcOuT0tm1iBGzDVPshzfwoVvREIui8C+MHqU=
 golang.org/x/tools v0.1.1-0.20210302220138-2ac05c832e1a/go.mod h1:9bzcO0MWcOuT0tm1iBGzDVPshzfwoVvREIui8C+MHqU=
-golang.org/x/tools v0.1.4 h1:cVngSRcfgyZCzys3KYOpCFa+4dqX/Oub9tAq00ttGVs=
 golang.org/x/tools v0.1.4/go.mod h1:o0xws9oXOQQZyjljx8fwUC0k7L1pTE6eaCbjGeHmOkk=
+golang.org/x/tools v0.1.5 h1:ouewzE6p+/VEB31YYnTbEJdi8pFqKp4P4n85vwo3DHA=
+golang.org/x/tools v0.1.5/go.mod h1:o0xws9oXOQQZyjljx8fwUC0k7L1pTE6eaCbjGeHmOkk=
 golang.org/x/xerrors v0.0.0-20190717185122-a985d3407aa7/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20191011141410-1b5146add898/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
 golang.org/x/xerrors v0.0.0-20191204190536-9bdfabe68543/go.mod h1:I/5z698sn9Ka8TeJc9MKroUUfqBBauWjQqLJ2OPfmY0=
