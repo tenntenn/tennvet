@@ -29,6 +29,7 @@ $ go vet -vettool=`which tennvet` ./...
 * [innertypealias](https://github.com/gostaticanalysis/innertypealias)
 * [loopdefer](https://github.com/gostaticanalysis/loopdefer)
 * [nilerr](https://github.com/gostaticanalysis/nilerr)
+* [noctor](https://github.com/gostaticanalysis/noctor)
 * [nofmt](https://github.com/gostaticanalysis/nofmt)
 * [notest](https://github.com/gostaticanalysis/notest)
 * [sqlrows](https://github.com/gostaticanalysis/sqlrows)
@@ -39,3 +40,4 @@ $ go vet -vettool=`which tennvet` ./...
 * [unused](https://github.com/gostaticanalysis/unused)
 * [wraperrfmt](https://github.com/gostaticanalysis/wraperrfmt)
 * [zapvet](https://github.com/gostaticanalysis/zapvet)
+* [debugcode](https://github.com/gostaticanalysis/debugcode)

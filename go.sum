@@ -13,11 +13,15 @@ github.com/gostaticanalysis/analysisutil v0.6.1/go.mod h1:18U/DLpRgIUd459wGxVHE0
 github.com/gostaticanalysis/analysisutil v0.6.2/go.mod h1:ioRD8K5ASNEZq1HIeEYdwRDLLvkv2Glh+iZnT/mHmg0=
 github.com/gostaticanalysis/analysisutil v0.7.1 h1:ZMCjoue3DtDWQ5WyU16YbjbQEQ3VuzwxALrpYd+HeKk=
 github.com/gostaticanalysis/analysisutil v0.7.1/go.mod h1:v21E3hY37WKMGSnbsw2S/ojApNWb6C1//mXO48CXbVc=
+github.com/gostaticanalysis/builtinprint v0.0.0-20190928163048-1f45505defe8 h1:9pemSt493JQBJZaeeDydjdExvSpUDM++f9FeJHUuB9Q=
+github.com/gostaticanalysis/builtinprint v0.0.0-20190928163048-1f45505defe8/go.mod h1:ueCLSDQVbVIlzYhUt+Xu8w3LrLl0zVoZmOXtutYcBk8=
 github.com/gostaticanalysis/comment v1.4.1/go.mod h1:ih6ZxzTHLdadaiSnF5WY3dxUoXfXAlTaRzuaNDlSado=
 github.com/gostaticanalysis/comment v1.4.2 h1:hlnx5+S2fY9Zo9ePo4AhgYsYHbM2+eAv8m/s1JiCd6Q=
 github.com/gostaticanalysis/comment v1.4.2/go.mod h1:KLUTGDv6HOCotCH8h2erHKmpci2ZoR8VPu34YA2uzdM=
 github.com/gostaticanalysis/ctxfield v0.2.2 h1:Tn+qT9pDHAOqMrfXTS5nherKzyuw5IoXL2IO40K9rYI=
 github.com/gostaticanalysis/ctxfield v0.2.2/go.mod h1:NVQHqxsl14/ZpDMhBj+VxqcaIa592zM/rys9Z8FC4CY=
+github.com/gostaticanalysis/debugcode v0.1.1 h1:bUbWCG4hM9FCQhXryzKPT9wEvmPnGaQzWgYep7GSkUg=
+github.com/gostaticanalysis/debugcode v0.1.1/go.mod h1:JhrzQx46DdtETnsz9VRXyOxVCWa2ctt3ymASdb/PgQQ=
 github.com/gostaticanalysis/dupimport v0.0.0-20190626051117-37d4ab484168 h1:cdsyU5iNKqfi9S49vx5iWdUN7M+BfYxkdKP/7PSC1JQ=
 github.com/gostaticanalysis/dupimport v0.0.0-20190626051117-37d4ab484168/go.mod h1:Q0Mbw2DZAbelG4gIScozrAqkRCb32kBsmx4Hu4DzFWA=
 github.com/gostaticanalysis/elseless v0.1.0 h1:bMiJ4ZGMMkp1uUUqL1eyEE4FlCzdpG4GYz4af7BY1/U=
@@ -36,6 +40,8 @@ github.com/gostaticanalysis/loopdefer v0.1.0 h1:SYEleVBBkBx7OzzuWEoLlTJWgD/xhd/n
 github.com/gostaticanalysis/loopdefer v0.1.0/go.mod h1:7I9Ht5ecBZoTUmWqMuBQeFBbSELGGDgeL4VAgGShaCs=
 github.com/gostaticanalysis/nilerr v0.1.1 h1:ThE+hJP0fEp4zWLkWHWcRyI2Od0p7DlgYG3Uqrmrcpk=
 github.com/gostaticanalysis/nilerr v0.1.1/go.mod h1:wZYb6YI5YAxxq0i1+VJbY0s2YONW0HU0GPE3+5PWN4A=
+github.com/gostaticanalysis/noctor v0.1.0 h1:ouBYsIsCRaeY9wrnoolTkDZYIisQNdUI4yNd9BAi4DI=
+github.com/gostaticanalysis/noctor v0.1.0/go.mod h1:hlDuCDaUv1Ajwib6oXlvDrtqPgEA7MSM2Nb/bH/l7Zo=
 github.com/gostaticanalysis/nofmt v0.0.0-20190308162339-35b38e0c7b48 h1:BXkvwyv02+0cXo+/qWHrbEjN1ZpdeG2SdnI1r1PR0N0=
 github.com/gostaticanalysis/nofmt v0.0.0-20190308162339-35b38e0c7b48/go.mod h1:WDznvc31hWUkypHoQvD/A7c3sMqvLo4EtQMUp7RTfPk=
 github.com/gostaticanalysis/notest v0.0.0-20190308173254-8cf418819436 h1:0ve41hnaX31CLBtWBl3tAMVOEysF9PFKnXXmh0dCRdM=
