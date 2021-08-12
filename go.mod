@@ -24,6 +24,6 @@ require (
 	github.com/gostaticanalysis/unitconst v0.1.1
 	github.com/gostaticanalysis/unused v0.0.5
 	github.com/gostaticanalysis/wraperrfmt v0.0.0-20190308090456-74aac36802ea
-	github.com/gostaticanalysis/zapvet v0.3.0
+	github.com/gostaticanalysis/zapvet v0.3.1
 	golang.org/x/tools v0.1.5
 )

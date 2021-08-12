@@ -68,6 +68,8 @@ github.com/gostaticanalysis/wraperrfmt v0.0.0-20190308090456-74aac36802ea h1:wN2
 github.com/gostaticanalysis/wraperrfmt v0.0.0-20190308090456-74aac36802ea/go.mod h1:G1K/khOSkz57RESa8GQXMUfkt0oqmgnO/zDZXxG6MoE=
 github.com/gostaticanalysis/zapvet v0.3.0 h1:xsAOsdmNUqfzdTZTy/VP2xalJ+3/bglAAeQR2koQe98=
 github.com/gostaticanalysis/zapvet v0.3.0/go.mod h1:5UDW2qN3I5i6hMbMZ96ZQ3dMmH0D0mWfxNvoSWTIaI0=
+github.com/gostaticanalysis/zapvet v0.3.1 h1:VmLci3HkBqmk2+I96PrhxTjhc3GQAj4+ecKTjTXlIfQ=
+github.com/gostaticanalysis/zapvet v0.3.1/go.mod h1:5UDW2qN3I5i6hMbMZ96ZQ3dMmH0D0mWfxNvoSWTIaI0=
 github.com/hashicorp/go-version v1.2.1 h1:zEfKbn2+PDgroKdiOzqiE8rsmLqU2uwi5PB5pBJ3TkI=
 github.com/hashicorp/go-version v1.2.1/go.mod h1:fltr4n8CU8Ke44wwGCBoEymUuxUHl09ZGVZPK5anwXA=
 github.com/josharian/txtarfs v0.0.0-20210218200122-0702f000015a h1:8NZHLa6Gp0hW6xJ0c3F1Kse7dJw30fOcDzHuF9sLbnE=
