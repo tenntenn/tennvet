@@ -1,6 +1,6 @@
 module github.com/tenntenn/tennvet
 
-go 1.15
+go 1.19
 
 require (
 	github.com/gcpug/zagane v0.5.2
@@ -25,5 +25,12 @@ require (
 	github.com/gostaticanalysis/unused v0.0.5
 	github.com/gostaticanalysis/wraperrfmt v0.0.0-20190308090456-74aac36802ea
 	github.com/gostaticanalysis/zapvet v0.3.1
-	golang.org/x/tools v0.1.5
+	golang.org/x/tools v0.1.12
+)
+
+require (
+	github.com/gostaticanalysis/analysisutil v0.7.1 // indirect
+	github.com/gostaticanalysis/builtinprint v0.0.0-20190928163048-1f45505defe8 // indirect
+	github.com/gostaticanalysis/comment v1.4.2 // indirect
+	github.com/gostaticanalysis/ident v0.0.1 // indirect
 )
