@@ -66,6 +66,8 @@ github.com/gostaticanalysis/unused v0.0.5 h1:7Y1U54r3kUG9yFLEqWpiZFdL2CxyIJI7Cfn
 github.com/gostaticanalysis/unused v0.0.5/go.mod h1:SCEZphM9rdrzDbQr8/yeHfxYODH/u6GqkEoMzsHtD8o=
 github.com/gostaticanalysis/wraperrfmt v0.0.0-20240424134522-a58689aa692e h1:iodedlbVVSktP9ArGGCL/+sQghOcwFYWC8NwXEMpGxs=
 github.com/gostaticanalysis/wraperrfmt v0.0.0-20240424134522-a58689aa692e/go.mod h1:4VbWU0A2tbM4KWYy8+H/3Lp5vluCMek0sz+xB6HYVx4=
+github.com/gostaticanalysis/wraperrfmt v0.0.0-20240719130650-49e514389db6 h1:9F0P4ga30lH8Ve4kC/jkCYmYci/Zh+UuZRurSi6fPE4=
+github.com/gostaticanalysis/wraperrfmt v0.0.0-20240719130650-49e514389db6/go.mod h1:FtJ130sR16N3MBs5Vx+7wT55VCfTLdNdchJtjjEin+c=
 github.com/gostaticanalysis/zapvet v0.3.1 h1:VmLci3HkBqmk2+I96PrhxTjhc3GQAj4+ecKTjTXlIfQ=
 github.com/gostaticanalysis/zapvet v0.3.1/go.mod h1:5UDW2qN3I5i6hMbMZ96ZQ3dMmH0D0mWfxNvoSWTIaI0=
 github.com/hashicorp/go-version v1.2.1 h1:zEfKbn2+PDgroKdiOzqiE8rsmLqU2uwi5PB5pBJ3TkI=
