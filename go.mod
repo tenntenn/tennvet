@@ -23,7 +23,7 @@ require (
 	github.com/gostaticanalysis/typeswitch v0.0.0-20200129070600-0c79224605d6
 	github.com/gostaticanalysis/unitconst v0.1.3
 	github.com/gostaticanalysis/unused v0.0.5
-	github.com/gostaticanalysis/wraperrfmt v0.0.0-20240424134522-a58689aa692e
+	github.com/gostaticanalysis/wraperrfmt v0.0.0-20240719130650-49e514389db6
 	github.com/gostaticanalysis/zapvet v0.3.1
 	golang.org/x/tools v0.23.0
 )
